@@ -1,10 +1,10 @@
 import React from 'react'
 
-const ContactList = () => {
+const ContactCard = () => {
     return (
         <div>
         </div>
     )
 }
 
-export default ContactList
+export default ContactCard
